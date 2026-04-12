@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """
-Async comprehension modulu.
+Async Comprehension modulu.
 """
 from typing import List
-import importlib
 
 # 0-async_generator-u import edirik
 async_generator = __import__('0-async_generator').async_generator
